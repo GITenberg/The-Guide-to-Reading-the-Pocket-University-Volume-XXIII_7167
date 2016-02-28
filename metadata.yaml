@@ -1,0 +1,33 @@
+_repo: The-Guide-to-Reading-the-Pocket-University-Volume-XXIII_7167
+contributor:
+  creator:
+    editors:
+    - agent_name: Dickinson, Asa Don
+      birthdate: 1876
+      deathdate: 1960
+      gutenberg_agent_id: '1678'
+      url: http://www.gutenberg.org/2009/agents/1678
+    - agent_name: Abbott, Lyman
+      birthdate: 1835
+      deathdate: 1922
+      gutenberg_agent_id: '1604'
+      url: http://www.gutenberg.org/2009/agents/1604
+      wikipedia: http://en.wikipedia.org/wiki/Lyman_Abbott
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading -- United States'
+- !lcc 'Z'
+- !lcc 'PN'
+tableOfContents: Books for study and reading / Lyman Abbott -- The purpose of reading
+  / John Macy -- How to get the best out of books / Richard Le Gallienne -- The guide
+  to daily reading / Asa Don Dickinson.
+title: The Guide to Reading — the Pocket University Volume XXIII
+url: http://www.gutenberg.org/ebooks/7167
